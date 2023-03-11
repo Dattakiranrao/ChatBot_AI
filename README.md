@@ -43,7 +43,3 @@ To Know More About [Pandas](https://pandas.pydata.org)\
 To Know More About [Tensorflow](https://jinja.palletsprojects.com/en/3.1.x/)\
 To Know More About [TFLearn](http://tflearn.org)\
 To Know More About [NLTK](https://www.nltk.org)
-=======
-# chatbot
-This repo is for maintaining the code for ChatBot/Virtual Assistant 
->>>>>>> b1f27b8de58da67d348a63db96afa14771f33fcb
