@@ -5,7 +5,7 @@ A ChatBot implementation using [NLTK (Natural Language Tool Kit)](https://www.nl
 # Available Scripts
 In the project directory, you can run:
 
-python app.py
+python chatbot.py
 
 ## Model Architecture
 ```py
