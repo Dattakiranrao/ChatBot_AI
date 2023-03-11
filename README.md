@@ -23,6 +23,7 @@ intents.json
 ```
 
 # Outputs
+Accuracy === acc
 |<img src="./assets/accuracy.png" width=400 alt=""> |
 | ---------------------------------------------- | 
 | <img src="./assets/output.png" width=400 alt=""> | 
