@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatBot APP
 A ChatBot implementation using [NLTK (Natural Language Tool Kit)](https://www.nltk.org)
 
